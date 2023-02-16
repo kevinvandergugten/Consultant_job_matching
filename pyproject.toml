@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "nlp-consultant-job-match"
+version = "0.1.0"
+description = ""
+authors = ["kefkaaah"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.3"
+numpy = "^1.24.2"
+nltk = "^3.8.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
