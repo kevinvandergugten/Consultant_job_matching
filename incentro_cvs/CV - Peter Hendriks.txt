@@ -1,0 +1,163 @@
+﻿Peter Hendriks
+Business Analist
+Ik ben een kruising tussen een proces analist en een ondernemer. Wat krijg je dan? Een secuur iemand die het fijne begrijpt van het onderhanden onderwerp, maar die ook een investering op waarde kan schatten en prioriteit kan geven aan de onderdelen die het meeste resultaat geven. Vanuit deze insteek word ik enthousiast van het sparren met opdrachtgever en stakeholders om samen te werken naar het optimale resultaat.
+
+
+Vaardigheden
+
+
+* Inventarisatie interviews
+* Stakeholder management
+* Agile Scrum
+* Presenteren
+* Data analyse
+* Procesmanagement
+* Optimalisatie advies
+* AFAS Profit & InSite
+* Strategieontwikkeling
+* Groei en internationalisatie
+
+
+Technieken
+
+
+* Microsoft Power BI & DAX
+* SQL
+* AFAS
+* Microsoft Visio
+* Power Automate
+* Taakgerichte project management tooling
+* BPMN
+* SWOT
+
+
+Contactgegevens
+* E-mail: peter.hendriks@incentro.com
+* LinkedIn: https://www.linkedin.com/in/pjj-hendriks/
+* Telefoon:  +31 (0)30 66 65 315
+
+
+Werkervaring
+
+
+Uitgelichte projecten
+
+
+2019
+Analyse en advies voor rijksoverheid brede adoptie van werkwijze Nieuwe Omgevingswet @ Rijkswaterstaat
+Vanuit de afdeling interne optimalisatie een analyse gestart binnen de verschillende afdelingen van de rijksoverheid om maximale adoptie van de Nieuwe Omgevingswet te bereiken. 
+Gebruikte technieken: User stories, flowcharts, semi-gestructureerd interviewen
+
+
+2020
+Adviserend onderzoek voor rendement verhoging diensten @ Archeologisch Diensten Centrum
+Binnen de archeologie sector zijn de marges gemiddeld onder de 3%. Hierdoor was er behoefte aan inventarisatie van de huidige diensten en de manier waarop deze diensten worden uitgevoerd. Op basis van deze inventarisatie heb ik een adviesrapport opgesteld. Dit rapport was gestructureerd rondom een optimalisatie kalender. 
+
+
+Gebruikte technieken: User stories, process flow diagram, MoSCoW, deliverables, data analyse
+
+
+Overige projecten
+
+
+2022
+Projectmanagement ERP & WMS implementatie @ RMG B.V.
+Het opstarten (process inventarisatie en optimalisatie) en managen van het project om een ERP systeem met daaraan gekoppeld een WMS te implementeren. Met het gebruik van user stories als basis voor de deliverables welke volgens MoSCoW gecategoriseerd zijn. Met als doel om in stappen de meest relevante onderdelen op te leveren. 
+Gebruikte technieken: User stories, flowcharts, MoSCoW
+
+
+2022
+Optimalisatie traject  @ Cargonaut
+Presales en business analyse voor het voortzetten van de ontwikkeling van een machine learning applicatie voor het afhandelen van tickets.  
+
+
+Gebruikte technieken: User stories, Jira
+
+
+
+
+2022
+MARCOM dashboard @ DNV
+Project management voor het opzetten van een MARCOM dashboard. Hiervoor zijn vier data sources in Azure gekoppeld om een overkoepelend datawarehouse te creëren. 
+
+
+Gebruikte technieken: User stories, Jira, Percentage of Completion 
+
+
+2022
+Automatisering data-deling @ Innax
+Inventariseren en implementeren van de wensen om repeterende taken van de HR afdeling te automatiseren.
+
+
+Gebruikte technieken: User stories, Microsoft tasks, AFAS
+
+
+2021 - 2022
+Projectmanager ERP migratie @ Archeologisch Diensten Centrum
+Projectmanager voor het inrichten van het nieuwe ERP pakket van het Archeologisch Diensten Centrum. Daarnaast ook de lead in het selectieproces voor het nieuwe pakket. 
+
+
+Gebruikte technieken: User stories, process flow diagram, MoSCoW
+
+
+2021-2022
+Data analyse en visualisatie @ Hero Kindercentra
+Koppelen, opschonen en visualiseren van financiële en HRM data uit AFAS naar Power BI.
+
+
+Gebruikte technieken: Power BI
+
+
+
+
+2021
+Consultant datamigratie ERP @ Archeologisch Diensten Centrum
+Uitvoerend consultant voor de datamigratie van de het oude ERP pakket (Assistance PSO) naar het nieuwe (AFAS) voor het Archeologisch Diensten Centrum met daarbij de oplevering van dashboards in PowerBI voor KPI management.
+
+
+Gebruikte technieken: SQL, PowerBI, AFAS
+
+
+________________
+
+
+2021
+Projectleider automatisering data-deling @ Peti Protein BV.
+Projectleider van het traject om automatisering toe te passen voor data-deling tussen meerdere leveranciers bij Peti Protein B.V. met als doel een volledig geïntegreerd productieproces, van vullen tot bedrukken en traceerbaarheid. 
+
+
+Gebruikte tools: User stories, data flow diagram
+
+
+Opleidingen en trainingen
+
+
+Trainingen
+
+
+November 2019 - Januari 2020
+Leadership & Management @ Universiteit van Amsterdam
+
+
+        Maart 2017
+System Engineering basiscursus @ Rijkswaterstaat
+
+
+Februari 2017
+Systeemgerichte Contract Beheersing @ Rijkswaterstaat
+
+
+________________
+
+
+Opleidingen
+
+
+2019 - 2021
+MSc Business Administration - International Management @ Universiteit van Amsterdam
+Deze master heeft een dieper inzicht gegeven in organisaties en de werking hiervan. Mijn specialisatie is in internationaal management, waar de focus is gelegd op internationalisering en de kansen/hindernissen die hierbij horen.
+
+
+2015 - 2019
+Bachelor Technische Bedrijfskunde @ Hogeschool Utrecht
+Deze opleiding heeft mij voorzien in procesmatig kunnen denken, omgaan met weerstand in organisaties en het beheersen en managen van projecten.

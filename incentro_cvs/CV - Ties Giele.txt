@@ -1,0 +1,76 @@
+﻿Ties Giele  
+Data analyst / Data Scientist
+Als Data Analyst houd ik me bezig met het analyseren en visualiseren van data, Daarnaast hou ik me als Data Scientist bezig met het ontwikkelen van complexe 'Machine Learning' oplossingen. Het ontdekken van de potentie van data is waar ik enthousiast van word. Met mijn financiële achtergrond vind ik de commerciële/financiële kant van een project belangrijk en kijk ik altijd naar de impact van een oplossing op de organisatie en waar er ruimte is voor verbetering. Geen uitdaging is te groot, ik ben leergierig en ambitieus. Ik help jou en je onderneming graag naar het volgende niveau, dus laten we snel kennismaken.
+Vaardigheden
+●         Sociaal                         ●         Creatief
+●         Leergierig                        ●         Resultaatgericht
+●         Analytisch                ●         Teamplayer
+
+
+________________
+
+Technische vaardigheden
+●    Visualisatie / Dashboarding
+○    Qlikview
+○    PowerBI
+●    Data analytics & scripting
+○    Python
+○    SQL
+○    R
+●    Data Science
+○    Machine learning (linear/logistic regression, random forest, neural network, etc.)
+●    Cloud
+○    Azure
+Contactgegevens
+●    E-mail: ties.giele@incentro.com
+●    LinkedIn: Ties Giele | LinkedIn
+●    Telefoon: +31 6 117 82 129
+ 
+Werkervaring
+2022 - Heden
+Cloud Migratie @ Veiligheidsregio Gooi en Vechtstreek
+Migratie van Google Cloud Platform (GCP) naar Microsoft Azure. Het gaat hier om het inrichten van een Azure omgeving waarbij data van verschillende bronnen wordt opgehaald en waarbij historische data wordt onttrokken van GCP zodat deze in dashboards kan worden weergegeven.
+Gebruikte technieken: Azure, SQL
+
+
+2022
+Data Visualisatie @ OCI
+Bij OCI heb ik in een korte tijd een dashboard vanaf scratch moeten bouwen. Ik was hier verantwoordelijk voor en heb zowel verschillende databases met elkaar moeten linken als de visualisaties moeten bouwen. Het ging hierbij om een dashboard dat productiedata bevat en deze vergelijkt met de forecast die vanuit een andere database kwam.
+Wat hieraan uitdagend was, is dat de verschillende databases met verschillende codes en datums werkte, waardoor er verschillende dimensie files aangemaakt moeten worden om de link tussen de productie en forecast database gelegd kan worden.
+Gebruikte technieken: PowerBi
+2019 - 2020
+Data Analist @ NewCold
+Bij NewCold was ik, samen met het BI team, verantwoordelijk voor het visualiseren van data die uit verschillende geautomatiseerde warehouses kwam over heel de wereld. Ik werkte hier aan een dashboard die dagelijks gedeeld werd met de units zodat zij inzicht kregen in de dagelijkse gang van zaken.
+Wat uitdagend was aan dit project is het ontvangen van feedback uit meerdere landen. In principe was er 1 dashboard met verschillende data als background, zomaar iets aanpassen zou dus niet 1 vestiging beïnvloeden, maar alle vestigingen. Tijdens deze periode heb ik geleerd kritisch te kijken naar vragen vanuit verschillende business units.
+Daarnaast heb ik ook moeten werken aan een strategisch dashboard die wekelijks gedeeld werd met het management van de organisatie. Ook hierin heb ik met verschillende mensen moeten samenwerken die ieder weer andere inzichten wilde zien.
+Gebruikte technieken: Qlikview, Scrum
+ 
+________________
+
+
+Overige projecten
+2022
+Master Thesis @ Tilburg University
+Tijdens mijn thesis heb ik geprobeerd de prijs van Bitcoin te voorspellen d.m.v. historische data. Hierbij heb ik gebruik gemaakt van een Long- Short term Memory Neural Network om te testen of dit model adequaat de prijs kon voorspellen. Deze heb ik gebenchmarkt tegenover een simpel lineair regressiemodel om te kijken hoe goed mijn LSTM-model het zou doen. Het doel van het project was dan ook het verslaan van het benchmark model.
+Gebruikte technieken: Python
+ 
+Opleidingen en trainingen
+ Trainingen
+2022
+The Complete SQL Bootcamp 2021: Go from zero to hero
+2021
+The Complete Python Pro Bootcamp for 2021
+2019
+Advanced QlikView
+2019
+QlikView for beginners
+
+
+Opleidingen
+2019 - 2021
+MSc Data Science & Society @ Tilburg University
+Na mijn bachelor ben ik begonnen aan de MSc Data Science. Deze keuze heb ik gemaakt om de mogelijkheden van data te ondervinden. De termen zoals big data werden toen vaak gebruikt, en ik wilde graag weten wat dit nou betekende. Tijdens mijn master ben ik dan ook in aanraking gekomen met het vak data science. Hier leerde ik over deze mogelijkheden en hoe deze tot stand zijn gekomen. Deze master heeft me sterke academische en analytische skills bijgebracht.
+Gebruikte technieken: Python, R, SQL
+2014 - 2018
+Finance & Control @ Avans
+Tijdens mijn bachelor ben ik ingedoken in de beginselen van finance. Tijdens deze studie heb ik geleerd kritisch en analyserend te kijken naar verschillende financiële vraagstukken.

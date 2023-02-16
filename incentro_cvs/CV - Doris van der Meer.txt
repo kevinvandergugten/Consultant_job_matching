@@ -1,0 +1,249 @@
+﻿Doris 
+van der Meer
+Opkomend product owner met 4 jaar werkervaring
+
+
+Tussen de business en de techniek zitten is dé rode draad in mijn leven. Snel kunnen schakelen van context, ieder zijn drijfveren begrijpen en vervolgens de links kunnen leggen tussen de juiste techniek en mensen is waar ik goed in ben, verbinder kan je het ook wel noemen.
+Daarbij komt dat verbinden terug in de samenhorigheid waar ik van houd. Mijn enthousiasme stoppen in de sfeer van het team om daarmee de samenwerking te bevorderen.
+
+
+Contactgegevens
+* E-mail: doris.vandermeer@incentro.com
+* Telefoon: +31 6 24 32 11 81
+* Woonplaats: Utrecht
+
+
+Kwaliteiten
+
+
+* Proactief
+* Resultaatgericht
+* Creatief
+* Pragmatisch
+	* Analytisch
+* Nieuwsgierig
+* Makkelijk in omgang
+* Teamplayer
+	________________
+Technische vaardigheden
+* Visualisatie / Dashboarding
+   * Power BI 
+   * Google Data Studio
+   * Tableau
+   * AWS QuickSight
+
+
+* Analytics, Databases and Data Engineering
+   * Google BigQuery
+   * AWS Athena
+
+
+* Scripting
+   * SQL
+   * R
+   * Python
+
+
+Werkervaring
+
+
+Projecten
+Nov 2021 & Jun 2022
+Trainer data studio & visualisatie @ RBT heuvelrug &
+        vallei en De veiligheidsregio midden Nederland via
+        Incentro
+RBT de heuvelrug en vallei (ook wel RBT) wilde graag gaan starten met het bouwen van dashboards. Zij willen hun partners informeren over het bereik van de marketing campagnes die RBT uitvoert. 
+
+
+In twee dagen heb ik hen geholpen om:
+* Enerzijds de ins en outs van de dashboard tool data studio leren kennen;
+* En anderzijds te helpen met ‘Hoe ontwerp je een dashboard?’ Hieronder een verdere toelichting.
+
+
+Het onderdeel ‘Hoe ontwerp je een dashboard?’ kan je in twee delen opdelen. Het eerste deel bevat: wie wordt de gebruiker, wat zijn de drijfveren van de gebruiker, welk probleem lost dit dashboard op. Het tweede deel bevat hoe gebruik je kleuren en welke lay-out kan je het beste gebruiken.
+
+
+Dec 2021 - feb 2022
+Project lead @ PostNL via Incentro
+Dit project stond in het teken van een groot data analyse vraagstuk over de customer service afhandeling. 
+
+
+“In hoeverre is het mogelijk om inzichten te krijgen uit de opgenomen audio gesprekken tussen klantenservice medewerker en klant?”
+
+
+Tijdens dit project zorgde ik ervoor dat het team genoeg tijd kreeg om te divergeren en vervolgens ook weer te convergeren zonder het doel uit het oog te verliezen.
+
+
+Dit deed ik door regelmatig in te checken bij het team, kritische vragen te stellen en de klant (postnl) te betrekken door een workshop te organiseren en faciliteren.
+
+
+
+
+Okt 2021 - now
+Data artist en product owner @ Fleet support via
+        Incentro
+Aan mij is de vraag gesteld: “Hoe kunnen we dit dashboard opzetten voor een strategische klant van Fleet support”.
+
+
+Om tot het resultaat te komen ben ik in drie stappen aan de slag gegaan:
+1. Kritische vragen stellen om echt alleen te laten zien wat nodig is voor de gebruiker;
+2. Het ontwerpen van het design met visualisaties;
+3. Het bouwen van het dashboard in QuickSight.
+
+
+Daarbij was de beschikbaarheid van de PO laag en heb ik daarom de deels het product owner schap op mij genomen. Ik zorgde voor overzicht van welke taken er gedaan moeten worden, de prioritering en het stakeholder management. 
+
+
+Gebruikte technieken/ tools: AWS QuickSight, SQL, data visualisatie technieken
+
+
+
+
+Jun 2021 - aug 2021
+Data analist @ PostNL CBS (Cross Border Solutions) via 
+        Incentro
+Bij PostNL CBS was ik onderdeel van het BI demand team. Dit team bestond uit alleen maar data analisten die ieder zijn eigen afdeling hielp met data inzichten. 
+
+
+Mijn focus lag op Europa. Ik hielp de afdeling hierbij met inzichten via PowerBI. Ik heb meerdere dashboards opgeleverd. Voorbeelden van de projecten waren:
+* De douane inzicht geven in hoeveel zendingen er bij de douane ligt en hoe lang.
+* Customer service inzicht geven in de link tussen zendingen en tickets die over de zendingen gaan. Dit was nog niet beschikbaar omdat de data nog niet beschikbaar was. 
+* Inzicht geven in alle datastromen die binnen komen (via API’s) bij CBS.
+
+
+Daarbij heb ik ook aan een ander groot project gewerkt. Het doel van dit project was:
+1.) inzicht geven in de routes van de trucks en de aantallen. Tot op heden was er alleen inzicht in de aantallen van het begin van de route naar het einde van de route. Echter stoppen de trucks tussendoor ook nog op zogenoemde ‘cross docks’. 
+2.) Daarbij wilde ze ook een optimalisatie slag over de routes heen halen. Welke routes worden gebruikt en hoe verdelen de aantallen zich als de kortste routes worden bepaald op basis van kosten, afstand of aantal stops. 
+Voor dit project heb ik een algoritme geschreven in python. Dit algoritme had als resultaat een overzicht met welke routes allemaal mogelijk zijn per start, eind combinatie en welke route per start, eind combinatie de kortste was. Daarbij kwamen er drie visualisaties van alle start, eind en crosshub locaties met de daarbij behorende volumes op basis van het kortste pad uit.
+
+
+Gebruikte technieken/ tools: AWS Athena, PowerBI, AWS SageMaker, AWS S3, SQL,
+        DAX, Scrum, Rally
+
+
+Feb 2020 - apr 2021
+Data analist @ Bol.com via Incentro
+Bij Bol.com was ik bij het online service scrum team van start gegaan. Dit is het team waar chatbot Billie onderdeel van is en onder de customer service afdeling valt. Ik heb dit team geholpen met de eerste inzichten geven in het gebruik van de bot. Waar gaan de conversaties goed en nog veel belangrijker waar lopen de conversaties vast. Want hier liggen optimalisatie kansen. Deze inzichten gaf ik door middel van het ontwikkelen van nieuwe kpi’s en een datastudio dashboard. 
+
+
+Om data gedreven beslissingen te kunnen blijven maken (ook als ik weg ben) heb ik een ‘way of working’ ontwikkeld en daarbij heb ik het team getraind in het gebruik van bigquery en Google data studio. 
+
+
+Het tweede project waarbij ik heb geholpen is het platform transformatie project. Een onderdeel van dit project was om alle customer service kosten naar de nieuwe profit en loss rekeningen door te belasten. Hiervoor heb ik wederom inzichten gegeven door middel van een Google data studio dashboard. Ook heb ik geholpen bij de nodige business analyse, zodat de it’ers aan de slag konden met ontwikkelen.
+
+
+Gebruikte technieken: BigQuery, Data studio, Tableau, SQL, Scrum, Atlassian
+
+
+Sep 2019 - jan 2020
+R developer @ Aegon via Incentro
+Bij Aegon heb ik het ‘liquiditeit stress model’, die voorheen in Excel werd gemaakt, geautomatiseerd in R. Onderwerpen die ik tijdens deze opdracht heb geraakt zijn:
+Model optimalisatie vraagstukken;
+Unit testing;
+Setup of Azure devops pipelines.
+
+
+Gebruikte technieken: R studio, Azure DevOps
+
+
+
+
+Nov 2018 - Aug 2019
+Chatbot developer @ PostNL via Incentro
+Bij PostNL was ik verantwoordelijk voor de architectuur van de chatbot ‘Daan’  en het ontwikkelen van de verschillende gebruiker flows van de chatbot. 
+Daarbij ben ik onderdeel van het team die de analytics van het gebruik van ‘Daan’ heeft opgezet. Ik heb de leiding genomen in de aanpak van de analyse op het gebruik van de bot. PostNL maakt gebruik van BigQuery voor deze analyses. De uitkomsten van de analyses gebruiken we om de chatbot datagedreven te kunnen verbeteren.
+
+
+Gebruikte technieken: Dialogflow, Lucidchart
+
+
+
+
+2017 - 2018
+Data analist @ MisterGreen
+Bij MisterGreen ben ik eerst bij een data science project betrokken geweest. Hierbij gingen we de tesla rijders clusteren op basis van rijgedrag. Elke cluster kreeg hierbij een gemiddelde kostprijs. Dit werd vervolgens gebruikt om ‘duurdere rijders’ te stimuleren goedkoper te rijden en ‘goedkope rijders’ te belonen. De bewerking van de data en het model maken heb ik in R gedaan.
+Als tweede opdracht heb ik inzichtelijk gemaakt welke databronnen beschikbaar zijn, wat voor analyses daarmee gemaakt konden worden en heb ik verschillende rapportages gemaakt in Tableau.
+
+
+Gebruikte technieken: BigQuery, Tableau, Google dataprep
+
+
+
+
+2016 - 2017
+Stage: Data science @ NS
+Bij de maintenance development afdeling heb ik een dataset van treinincidenten geanalyseerd om te kijken of het mogelijk was een treinincident te kunnen voorspellen en dus voorkomen. De data is aangevuld, opgeschoond en geanalyseerd in Rstudio om veiligheids storingen te kunnen voorspellen. Helaas was er te weinig data om de voorspellingen echt te kunnen doen.
+
+
+Gebruikte technieken: R studio
+
+
+
+
+2015 - 2016
+Stage: Process optimalisatie @ InventDesign
+Ik heb het proces van aanvraag order (led verlichting project) tot en met levering en installatie in kaart gebracht op basis van verschillende modellen. Vervolgens heb ik een aanbeveling gegeven voor het optimaliseren van het proces. Daarbij heb ik het nieuwe proces al deels opgezet. Een deel van het proces heb ik geautomatiseerd met het gebruik van apps script. 
+
+
+Gebruikte technieken: R studio
+
+
+
+
+Opleidingen en trainingen
+
+
+Trainingen / certificaten
+
+
+2022
+PSPO I
+
+
+2022
+Mansal
+
+
+2021
+Coaching fundamentals
+
+
+2020
+Data visualisation nanodegree 
+
+
+2020
+Medior consultancy skills 
+
+
+2020
+Coaching 
+
+
+2019
+Feedback training 
+
+
+        2018
+Consultancy skills 
+
+
+2018
+YPA
+
+
+________________
+
+
+2017
+Honours program data mining @ Hogeschool van
+        Amsterdam
+
+
+
+
+Opleidingen
+
+
+2013 - 2017
+Technische bedrijfskunde @ Hogeschool van Amsterdam

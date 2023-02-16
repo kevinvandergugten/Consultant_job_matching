@@ -1,0 +1,153 @@
+﻿Thierry Ernest
+Data engineer consultant
+
+
+
+
+
+
+Met specialistische kennis van data engineering en (cloud)architectuur kan ik bij elk bedrijf datastromen herkennen en deze gebruiken voor het ontwerpen en bouwen van een betrouwbaar data landschap. Door realistisch en taakgericht aan de slag te gaan probeer ik projecten doeltreffender op te lossen. Hierbij moet er een juiste brug worden gelegd tussen de bedrijfsprocessen en het datalandschap.
+
+
+Vaardigheden
+
+
+* Cloud data & analytics strategy
+* Dimensional modelling
+* Data warehousing
+* Data vault 2.0
+* Reporting
+* Dashboarding
+* Conceptual modelling
+* Scrum/Agile
+
+
+Technieken/Talen
+
+
+* Amazon Web Services
+* Pentaho
+* DBT
+* Power BI 
+* Jira/Rally
+* Postgres
+* Lucidchart
+* CI/CD (GIT)
+* SQL
+* Python
+Kwaliteiten
+
+
+* Positieve teamplayer
+* Taakgerichte instelling
+* Analytisch denkvermogen
+* Flexibele werkhouding
+* Pragmatische aanpak
+
+
+Contact info
+* E-mail: thierry.ernest@incentro.com
+* linkedin.com/in/thierryernest
+
+
+Werkervaring
+
+
+Projecten
+
+
+2020 - nu
+Data engineer @ PostNL CBS BI&A via Incentro
+Binnen het PostNL CBS BI wordt er continu gezocht naar de optimale manier om de data warehouse in te richten. Uitbreidingen op het gebied van data modelleren en ETL zijn onderwerpen die dagelijks aan bod komen. Uiteindelijk zorgt dit voor de meest optimale data warehouse (AWS Redshift), waarbij bedrijfsprocessen nauwkeurig kunnen worden gemonitoord.
+
+
+Gebruikte technieken: AWS S3, AWS Athena, AWS Redshift, AWS EC2, AWS Cloudwatch, AWS SNS, AWS CodeCommit, AWS RDS, Pentaho data integration, DBT, PostgreSQL, MySQL, MSSQL, Linux (Ubuntu), Agile Scrum.
+
+
+2020
+BI consultant @ Veiligheidsregio via Incentro
+Via Safehub krijgen veiligheidsregio’s inzicht in hun risicomanagement. Door middel van een dashboard wordt het risico van diverse gebieden in kaart gebracht zodat daar op in kan worden gespeeld.
+
+
+Gebruikte technieken: PostgreSQL, Pentaho.
+
+
+2020
+Data engineer @ AFAS uren dashboard
+Developer van een uren dashboard ontwikkeld met AWS serverless cloud. Door dagelijkse inzichten te verschaffen voor het management kan er beter gestuurd worden binnen de organisatie. 
+
+
+Gebruikte technieken: AWS Lambda, AWS S3, AWS Glue, AWS Athena, AWS QuickSight.
+
+
+2020 - nu
+Data engineer consultant @ Incentro
+Als data engineer consultant zorg ik ervoor dat het gehele data proces wordt doorlopen; van opslag en extractie tot data visualisatie. Hierbij worden er conceptuele en logische datamodellen opgesteld. Deze data modellen worden aan de hand van optimale ETL gevuld. Uiteindelijk leidt een optimale datawarehouse tot een efficiëntere bedrijfsvoering waarbij business stakeholders en managers meer inzicht krijgen in hun informatiestromen.
+
+
+Gebruikte technieken: Amazon Web Services, Pentaho, PostgreSQL.
+
+
+2019
+Graduate internship Data Analyst @ Tilburg University
+Bij de marketing- en communicatieafdeling van de Tilburg University hebben we de initiële online customer journey verbetert. Binnen het webdomein werd er gekeken naar efficiëntere targeting op studenten. Dit zorgt uiteindelijk voor een betere marketing strategie.
+
+
+Gebruikte technieken: Facebook analytics, RapidMiner.
+
+
+
+
+Educatie en training
+
+
+Certificaten
+Jul 2022
+AWS D&A Specialty 
+
+
+Jan 2021
+PCEP - Certified Python Programmer
+
+
+Mar 2020
+AWS Cloud practitioner
+
+
+________________
+
+
+Training/cursussen
+
+
+Nov 2021
+Python data modellering training
+
+
+Feb 2021
+AWS Developer training
+
+
+Feb 2020
+DevOps Training
+
+
+        Jan 2020
+Feedback Training
+
+
+Jan 2020
+YPA @ Incentro
+
+
+Educatie
+
+
+2018 - 2019
+Business information management @ Tilburg University
+Bij bedrijfskunde worden er managementproblemen en strategische vraagstukken onderzocht vanuit diverse gezichtspunten. Hierdoor zorg je zelfstandig voor analytische oplossingen bij complexe vraagstukken.
+
+
+2014 - 2018
+Bedrijfskunde @ Erasmus University Rotterdam
+Bij bedrijfskunde worden er managementproblemen en strategische vraagstukken onderzocht vanuit diverse gezichtspunten. Hierdoor zorg je zelfstandig voor analytische oplossingen bij complexe vraagstukken.

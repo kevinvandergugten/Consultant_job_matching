@@ -1,0 +1,180 @@
+﻿Sven Hogenboom
+
+
+
+
+Hi! Leuk dat je mijn cv leest. Graag deel ik mijn expertise en daag ik je uit om samen met mij de wensen van klanten en stakeholders te vertalen en challengen.
+
+
+Over mij als collega
+
+
+Als teamlid voeg ik gedrevenheid en focus toe. Door praktische oplossingen uit te onderhandelen en heldere communicatie binnen het team te stimuleren, help ik het bevorderen van kwalitatief goede resultaten. Ik zorg ervoor dat beslissingen op basis van logica worden genomen en draag bij aan een consistent teamresultaat. Met een nuchtere en praktische benadering help ik het team om activiteiten zo te plannen dat de doelstellingen worden behaald. Daarbij let ik op details en zorg ik ervoor dat anderen deze ook niet uit het oog verliezen.
+
+
+Vaardigheden
+
+
+* Agile Scrum
+* Procesmanagement
+* Project management
+* Stakeholder management
+
+
+Technieken en tools
+
+
+* Amazon Web Services (AWS)
+* JIRA
+* Rally
+* SQL
+* R
+* Python
+* PostgreSQL
+* Amazon QuickSight
+* Microsoft Power BI
+* Microsoft Visio
+* LucidChart
+* Tableau
+* Salesforce CRM
+* Pentaho
+
+
+Contactgegevens
+* E-mail: sven.hogenboom@incentro.com
+* LinkedIn: linkedin.com/in/svenhogenboom/
+* Telefoon: +31 (0)30 66 65 315
+
+
+Werkervaring
+
+
+Projecten
+
+
+Jun. 2021 - heden
+Data analist @ PostNL Mail via Incentro
+Data analist en ontwikkelaar van verschillende analyses binnen het Data & Insights feature team van PostNL Mail. Het meest recente project betreft inzichten verschaffen in de sorteerkwaliteit van de buslichtingen. Hier heb ik samengewerkt met verschillende projectleden zoals data engineers, business analisten, project managers, en platform owners.
+
+
+Gebruikte tools: Microsoft Power BI, Amazon Athena, Amazon S3
+
+
+Mrt. 2021 - heden
+Data analist @ Rijksoverheid via Incentro
+Data analyse bij de Rijksoverheid op een content management systeem. Hierin was ik verantwoordelijk voor het ophalen en prioriteren van de behoeften van verschillende gebruikers van deze analyses.
+
+
+Jan. 2021 - heden
+Product Owner AFAS Dashboard @ Incentro
+Voor het operationeel, sales, team en delivery management van Incentro zijn dagelijkse inzichten en stuurinformatie beschikbaar gemaakt middels een embedded Amazon QuickSight dashboard in OutSystems. In de rol als PO ben ik verantwoordelijk voor het prioriteren en coördineren van taken en user stories. Daarnaast ben ik verantwoordelijk voor het managen van de behoeften van andere vestingen in het dashboard.
+
+
+Gebruikte technieken: Agile, Data analyse
+Gebruikte tools: JIRA, Confluence, Amazon Web Services (Lambda, S3, Glue ETL, Athena, QuickSight), OutSystems
+
+
+Sept. 2020 - Okt. 2021
+Data analist @ Fleet Support via Incentro
+Data analist en dashboard ontwikkelaar bij Fleet Support. Dit met als doel klanten van Fleet Support te voorzien van inzichten in hun wagenpark data.
+Gebruikte tools: Microsoft SQL Server, Amazon QuickSight, pgAdmin
+Mei 2021 - Aug. 2021
+Data analist @ Veiligheidsregio Flevoland en Gooi & Vechtstreek via Incentro
+Ontwikkelaar van de dashboards voor operationele en strategische informatievoorziening van de veiligheidsregio’s. De dashboards bevatten inzichten en voorspellingen met betrekking tot incidenten, opkomsttijden en inzetten van hulpverlening.
+
+
+Gebruikte tools: Google BigQuery, SQL, Microsoft Power BI
+
+
+Okt. 2020 - Mei 2021
+Data analist @ Covid crisisteam Veiligheidsregio Flevoland en Gooi & Vechtstreek via Incentro
+Ten behoeve van de Covid crisisteams en bestuursorganen van de veiligheidsregio’s, heb ik de informatievoorziening ingeregeld rondom Covid-19 besmettingen, ziekenhuisopnames, overlijdens, informatieaanvragen, nieuwsberichten en heatmaps.
+
+
+Gebruikte tools: Microsoft Power BI, Microsoft SharePoint
+
+
+Mrt. 2020 - Feb. 2021
+Dashboard klantportaal @ Radiuz via Incentro
+Ontwikkelaar van het dashboard  in Amazon QuickSight, voor het nieuwe klantportaal van Radiuz. Het dashboard bevat inzichten en voorspellingen met betrekking tot het gebruik van Radiuz’ services.
+
+
+Gebruikte tools: Amazon Web Services (S3, GLue ETL, RDS, QuickSight), pgAdmin
+
+
+Jan. 2020 - Jan. 2021
+Data analist AFAS Dashboard @ Incentro
+Voor het operationeel, sales, team en delivery management van Incentro zijn dagelijkse inzichten en stuurinformatie beschikbaar gemaakt middels een embedded Amazon QuickSight dashboard in OutSystems.
+
+
+Gebruikte technieken: Python, SQL, ETL, Dashboarding
+Gebruikte tools: Amazon Web Services (Lambda, S3, Glue ETL, Athena, QuickSight), OutSystems
+
+
+Nov. 2019 - Dec. 2019
+Analyse geografische incidenten data @ Brandweer Amsterdam Amstelland via Incentro
+Data analyse met als doel vast te stellen of er een geografische correlatie bestaat tussen incidenten binnen de veiligheidsregio en faciliteiten rondom de locatie van deze incidenten, ten behoeve van preventieve maatregelen. 
+
+
+Gebruikte technieken: R
+Opleidingen en trainingen
+
+
+Certificaten
+
+
+Maart 2020
+AWS Certified Cloud Practioner
+
+
+Januari 2020
+IT-Traineeship - Incentro Young Professional Academy
+
+
+December 2019
+HBO-functiecertificaat Data Engineer
+
+
+Trainingen
+
+
+        September 2021
+Medior Consultancy Skills
+
+
+September 2021
+Coaching Fundamentals
+
+
+Januari 2020
+Insights Discovery Training
+
+
+Januari 2020
+Training Consultancy
+
+
+        Januari 2020
+Feedbacktraining
+
+
+Januari 2020
+YPA @ Incentro
+
+
+Opleidingen
+
+
+2019
+Bootcamp Data Engineer @ NOVI Hogeschool
+Tijdens deze bootcamp leerde ik databronnen identificeren, data prepareren, verkennen en modelleren en analyse resultaten communiceren. Dit met behulp van onderzoeksmethoden, statistiek en data visualisatie met Python, R en SQL. 
+
+
+
+
+2015 - 2019
+BSc Technische Bedrijfskunde @ Hogeschool Utrecht
+Tijdens deze multidisciplinaire opleiding leerde ik om bedrijfsprocessen efficiënter en/of effectiever in te richten. Beter, duurzamer, goedkoper en sneller produceren, inspelen op de wensen van de klant en eindgebruikers en ontwikkelingen in de markt met zicht op de kansen van (nieuwe) technologie.
+
+
+Gevolgde minor: Big Data & Social Media

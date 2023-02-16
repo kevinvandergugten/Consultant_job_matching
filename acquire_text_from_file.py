@@ -22,7 +22,11 @@ class FileReader:
             return df
 
         if self.file_type == 'txt':
-            pass
+
+            with open(self.file_name, 'r') as file:
+                data = file.read()
+
+            return data
 
 
 @dataclass
@@ -41,8 +45,9 @@ class Cleaner:
         text_without_whitespace = self.remove_whitespace(text_without_punctuation)
         text_lowercase = self.change_uppercase_to_lowercase(text_without_whitespace)
         text_without_stopwords = self.remove_stopwords(text_lowercase)
+        text_tokens = self.tokenize_text(text_without_stopwords)
 
-        return text_without_stopwords
+        return text_tokens
 
     @staticmethod
     def remove_punctuation(text: str):
@@ -94,3 +99,13 @@ class Cleaner:
         join_words_to_string = " ".join(text_without_stopwords)
 
         return join_words_to_string
+
+    @staticmethod
+    def tokenize_text(text: str):
+        """
+
+        :param text:
+        :return:
+        """
+
+        return text.split(' ')

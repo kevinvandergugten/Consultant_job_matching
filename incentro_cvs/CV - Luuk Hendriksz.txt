@@ -1,0 +1,218 @@
+﻿Luuk Hendriksz
+
+
+Projectmanager/Business Analist
+
+
+Bruggen slaan tussen de wens en de oplossing, tussen de klant en de operatie en tussen de business en IT: dat is waar ik voor sta en waar energie uit haal. Door mijn autodidactische manier van werken en mijn affiniteit met complexe vraagstukken binnen een internationale omgeving doorgrond ik de problematiek snel en werk ik samen met mijn team toe naar oplossingen die de verwachtingen doen overtreffen. 
+
+
+
+
+Vaardigheden
+* Requirement analyse
+* Business Intelligence
+* Projectmanagement 
+* ETL processen 
+* Business Control
+* Aanbestedingen/investeringen
+* Agile (Scrum & Kanban)
+
+
+Tools
+* Basisprincipes AWS, Google & Azure cloud
+* Jira & Gitlab
+* Microsoft Visio, LucidChart, Balsamiq
+* Microsoft SQL Server
+* Microsoft Office (incl. VBA)
+* Microsoft Power platform (Bi, Apps, Automate)
+
+
+Kwaliteiten
+* Analytisch 
+* Resultaatgericht
+* Creatief
+* Communicatief 
+* Teamplayer
+* Initiatiefrijk 
+
+
+Contactinformatie
+* E-mail: Luuk.Hendriksz@incentro.com
+* Woonplaats: Rotterdam
+
+
+Projecten Incentro
+
+
+Okt 2022 - jan 2022
+Projectmanager @ Veiligheidsregio Hollands-Midden (VRHM)
+Als vervolg op een eerder project begin 2022 ben ik als projectmanager betrokken geweest in de verdere uitbreiding van het reeds gebouwde dataplatform. Ditmaal lag hierin niet alleen de verantwoording voor een succesvolle oplevering van het project en communicatie met de betrokken stakeholders, maar ook in de begeleiding van twee junior data engineers. 
+
+
+Gebruikte technieken: Agile (Kanban)
+Gebruikte tools: Confluence, MS Power Bi, Lucidchart
+
+
+Jul 2022
+Facilitator @ Hallmark
+Bij Hallmark ben ik verantwoordelijk geweest voor het voorbereiden, organiseren, begeleiden en uitwerken van een vijftal workshops. Dit met als doel de datastromen en BI behoefte in kaart te brengen en dit om te zetten in een gedegen advies wat Hallmark kan gebruiken voor toekomstige ontwikkelingen op BI vlak. 
+
+
+Gebruikte technieken: Event storming 
+
+
+Meerdere rollen @ Damen Naval
+
+
+Nov 2022 - jan 2022
+Business analist
+Om meer grip te krijgen op IT en om meer aandacht te kunnen geven aan de core-business heeft Damen Naval het voornemen uitgesproken om een groot gedeelte van de IT te gaan outsourcen. Om tot een outsourcing strategie te komen heb ik samen met Quint (Eraneos) consulting een kort, maar intensief traject gedaan, waarin ik de brug was tussen de Damen Naval organisatie en de Quint outsourcing specialisten. Hierin heb ik me onder andere bezig gehouden met het verzamelen informatie en structuren van informatie en het begeleiden van het traject.
+
+
+Gebruikte tools: Topdesk, Sharepoint, MS Office
+
+
+Okt 2022 - jan 2022
+Projectmanager
+Na een half jaar gewerkt te hebben aan de voorbereiding van het applicatie migratie traject zijn wij in oktober gestart met de daadwerkelijke migratie. Hiervoor zijn diverse collega’s aangetrokken, waaronder system engineers, application engineers en een architect. Voor dit project ben ik (tijdelijk) verantwoordelijk geweest voor de dagelijkse aansturing van deze collega’s en voor de alignment van hun werkzaamheden met de planning en strategie. Ook heb ik werkprocessen opgezet, documenten geschreven en Gitlab ingericht. 
+
+
+Gebruikte tools: Gitlab, Topdesk, Sharepoint, MS Office 
+
+
+Apr 2022 - okt 2022
+Business analist
+Damen Naval heeft begin 2022 de keuze gemaakt om een groot gedeelte van hun on-premise draaiende business applicaties te migreren naar een private cloud-provider. Dit om hun continuïteit voor de nabije toekomst te waarborgen en waar mogelijk verbeteren. Damen Naval had op dat moment geen beeld van het applicatielandschap en er was met betrekking tot applicaties geen enkel beheer of beleid. Om deze reden ben ik samen met mijn team bezig geweest met het opzetten van een strategie en bijbehorende processen, en het in kaart brengen van het applicatielandschap (450 applicaties). 
+
+
+Gebruikte tools: Topdesk, Lucidchart, Visio, Sharepoint, MS Office
+
+
+Jan 2022 - apr 2022
+Informatieanalist @ Inspectie leefomgeving en transport (ILT)
+In het kader van een nieuw opgezet datalandschap bij de ILT hield ik mij bezig met de data integratie in de hele keten. Ik schreef specificaties en user stories voor koppelingen tussen systemen en voor verschillende vergunningverlening trajecten. Ook stond ik als informatieanalist tussen de diverse projecten/partijen in, was ik een verlengstuk van de interne PO’s en zorgde ik voor een gezamenlijke besluitvorming. 
+
+
+Gebruikte tools: JIRA, BiZZdesign HoriZZon
+
+
+Dec. 2021 - heden
+Product Owner interne projecten @ Incentro
+Voor de operatie, het sales-  en delivery management team van Incentro zijn dagelijkse inzichten en stuurinformatie beschikbaar gemaakt middels een embedded Amazon QuickSight dashboard in OutSystems. In de rol van PO ben ik verantwoordelijk voor het prioriteren en coördineren van taken en user stories. Daarnaast ben ik verantwoordelijk voor het managen van de behoeftes van diverse stakeholders. 
+
+
+Gebruikte tools: JIRA, Confluence
+
+
+Jan 2021 - mrt 2022
+Projectmanager @ Dutch Flower group (DFG)
+Als projectmanager voor DFG was ik verantwoordelijk voor de succesvolle oplevering van een kortlopend data project. Hierbij stuur het data team aan in de succesvolle oplevering van een aantal dashboards. Ik was hierin oa. Verantwoordelijk voor het ophalen van requirements, het prioriteren van werkzaamheden en het schakelen met de stakeholders binnen DFG. 
+
+
+Okt 2021 - mrt 2022
+Projectmanager @ Veiligheidsregio Hollands Midden (VRHM)
+Als Projectmanager voor de VRHM was ik verantwoordelijk voor de succesvolle oplevering van drie proof of concepts en één project, waarbij we als team onder andere een Data-integratieplatform hebben opgezet binnen de Azure cloud omgeving. Mijn werkzaamheden bestonden hierbij uit: 
+
+
+* Bewaken scope, project financiën en planning
+* Communiceren met de stuurgroepen
+* Meedenken in technische vraagstukken
+* Aansturen en begeleiden teamleden 
+
+
+Gebruikte technieken: Agile (Kanban)
+Gebruikte tools: Confluence, MS Power Bi, Lucidchart
+Verdere werkervaring
+Jun 2018 - sep 2021
+Business Analist @ Verwater B.V.
+Als Business Analist bij Verwater was ik verantwoordelijk voor uiteenlopende projecten op het gebied van technologie en procesverbetering. Ik analyseerde bestaande oplossingen en bedrijfsprocessen, inventariseerde de requirements en adviseerde daarover richting de betrokken stakeholders. Daarnaast had ik de  leiding over uiteenlopende interne en externe projecten. Hierbij was ik veelal verantwoordelijk voor het functionele aspect, maar ook met enige regelmatig voor het uitvoerende deel, in een rol als product owner en/of projectmanager. Mijn verantwoordelijkheden bestonden onder andere uit:
+
+
+* Het bouwen van data oplossingen in SQL en data visualisatie tools 
+* Het vertalen van diverse (interne) klantwensen naar oplossingen op het gebied van proces, finance en IT
+* Het schrijven van financiële analyses, onderzoeksrapporten en adviesrapporten.
+* Het in kaart brengen van informatiestromen en werkwijzen, om deze vervolgens te optimaliseren/verbeteren.
+* Bewaking van projectvoortgang, project risico en budget.
+* Het organiseren van uitvoering en het aansturen van projectteams.
+
+
+Gebruikte technieken/ tools: Agile (Scrum), MS PowerApps, MS PowerBi, SQL, IBIS-TRAD, Navision Business Central, Navision 2009, MS Excel (VBA), MS Visio, LucidChart en MS Sharepoint.
+
+
+
+
+Feb 2018- jun 2018
+Afstudeerstage @ Verwater B.V.
+Tijdens mijn afstudeerproject bij Verwater heb ik mij gericht op procesoptimalisatie en efficiëntie binnen de offertetraject van projecten.
+
+
+
+
+Mrt 2017 - feb 2018
+Account Manager/Sales @ bluePhare & Netfabric
+Als Account Manager voor bluePhare en Netfabric ben ik verantwoordelijk geweest voor het onderhouden/bijstaan van bestaande klanten en het werven van nieuwe klanten door middel van koude acquisitie. De doelgroep bestond hier voornamelijk uit het mkb in de IT-dienstverlening branche.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opleidingen en trainingen
+Trainingen / certificaten
+
+
+2022
+Medior Consultancy Skills @ AtPresent
+
+
+2022
+Google: Cloud Digital Leader @ Google
+
+
+2020
+PowerBi Desktop & Online (Advanced) @ Signon
+
+
+2019 
+VCA-Veiligheid voor Operationeel Leidinggevenden @ PBNA
+
+
+
+
+Opleidingen
+
+
+2013 - 2019
+Industrial Engineering & Management @ Hogeschool Rotterdam 
+Binnen de studie Industrial Engineering & Management lag de focus op het optimaliseren van bedrijfsprocessen, het analyseren van technische en organisatorische vraagstukken en het behandelen van technische innovaties. Hierbij heb ik door middel van diverse projecten uitgebreide kennis heb opgedaan van de betreffende onderwerpen.
+
+
+
+
+2018
+Minor Project & Programmamanagement @ Hogeschool Rotterdam
+Tijdens de Minor Project & Programmamanagement heb ik theoretische kennis opgedaan van project- & programmamanagement. Oa. Prince2, SCRUM, IPMA, Lean, Kanban en Agile zijn hier aan bod gekomen.
+
+
+
+
+2010 - 2013
+International Business Studies @ Zadkine Rotterdam
+Binnen de studie International Business werden diverse facetten met betrekking tot internationale handel behandeld. Hierbij heb ik door middel van uiteenlopende projecten uitgebreide kennis opgedaan van alle facetten die komen kijken bij het bedrijven van internationale handel.

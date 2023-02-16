@@ -1,0 +1,201 @@
+﻿Yvonne van de Glind
+Data Science Consultant 
+
+
+Met 3 jaar werkervaring als data wetenschapper en een achtergrond in online marketing. Ik krijg energie van data gedreven problemen waarbij ik kan helpen om de puzzel op te lossen, processen te optimaliseren of automatiseren, of op zoek kan gaan naar nieuwe toepassingen. 
+
+
+Vaardigheden
+
+
+* Machine learning & Artificial intelligence
+* Business intelligence & database warehousing
+* Data analytics
+* Data visualisatie
+* Online marketing & webtracking
+
+
+
+
+Technieken
+Talen
+* Python
+* R
+* SQL
+
+
+AWS
+* Sagemaker
+* Redshift
+* Athena
+* S3
+* CodeCommit
+
+
+Visualisatie
+* PowerBI
+* Google Data Studio
+
+
+Marketing
+* Google Analytics (UA & GA4)
+* Google Tag Manager
+* SEA (Google Ads & Bing Ads)
+* Social media advertising (Meta Adsmanager & LinkedIn)
+* E-mailmarketing (Mailchimp, ActiveCampaign, Kajabi)
+
+
+Contact informatie
+* Email: yvonne.vandeglind@incentro.com
+* LinkedIn: www.linkedin.com/in/yvonne-van-de-glind/
+* Telefoonnummer: +31 (0)6 81 71 94 52
+
+
+
+
+Werkervaring
+
+
+Projecten
+
+
+2022
+Webanalist @ IMCD via Incentro
+Als webanalist zorg ik ervoor dat de juiste events worden doorgemeten op de verschillende websites van IMCD en dat dit in hun Snowflake database wordt opgeslagen. Ik ben verantwoordelijk voor de migratie van UA naar GA4 en het opzetten van server-side tracking. Hiervoor ben ik nauw betrokken geweest bij het opzetten van de data pipeline tussen Google Tag Manager, AWS S3, DBT en Snowflake. Daarnaast houd ik me bezig met het verbeteren van de security inrichting van de betrokken systemen. Ten slotte rapporteer ik inzichten over gebruikersgedrag op de websites.  
+
+
+Gebruikte technieken: Google Tag Manager, Google Analytics (GA4 & UA), Google Search Console, Google Ads, Google Marketing Platform, Snowflake, Salesforce, Python, Lucidchart, AWS S3, AWS Location Service, AWS Secrets Manager, Tableau
+
+
+2021 - 2022
+Data scientist @ PostNL via Incentro
+Als data science consultant draai ik bij PostNL mee in het Advanced Analytics team bij Cross Border Solutions. Ik heb me bezig gehouden met het maken van forecasts, waarbij we per voor verschillende business modellen voorspellingen maken over de te verwachten volumes. Na de voorspelling te genereren maken we dit in een dashboard inzichtelijk. Daarnaast hebben we deep learning ingezet om een classificatie model te bouwen, zijn we bezig met route optimalisatie en met anomaly detection. 
+
+
+Bij het ophalen van data, o.a. uit S3, waren we verantwoordelijk voor het opschonen en verrijken van de data en het toepassen van business ruling. Zowel in SQL als Python. Ook deden we zelf onze MLOps waarbij we de data integraties tussen SageMaker, S3, Redshift, PowerBI en Athena onderhielden.
+
+
+Gebruikte technieken: Python, R, SQL, PowerBI, AWS Sagemaker, AWS S3, AWS Athena, AWS Redshift, AWS CodeCommit
+
+
+2019 - 2020
+Klantonderzoek doelgroep studenten @ Bibliotheek Venlo via Cubiss
+Als freelancer heb ik vanuit Cubiss onder het project Bibliotheekinnovatie een onderzoek uitgevoerd bij de Bibliotheek Venlo om meer inzicht te krijgen in de doelgroep “studenten”. Hiervoor heb ik uit vijf jaar transactiedata deze doelgroep gefilterd en geanalyseerd. Waarbij ik statistische gegevens inzichtelijk heb gemaakt en met behulp van cluster algoritmen heb gekeken naar segmenten binnen deze groep. Ook heb ik data uit interviews geanalyseerd. 
+
+
+Gebruikte technieken: Python, JASP
+
+
+2019
+Klantsegmentatie @ Noord-Oost Brabantse Bibliotheken via Cubiss
+Voor mijn masterscriptie Library user segmentation by transactional log data using k-means heb ik in bibliotheektransactie-data onderzoek gedaan naar klantsegmenten. Hiervoor ben ik bezig geweest met verkennende data-analyse, data cleaning en feature engineering. Daarna zijn verschillende clusters algoritmen met verschillende parameters onderzocht waarbij de resultaten werden geëvalueerd. Ten slotte is er een data-analyse uitgevoerd van de uiteindelijke clusters.
+
+
+Gebruikte technieken: Python
+
+
+2019 - 2022
+Online Marketeer @ YMOS
+Op freelance basis werk ik aan het opzetten, evalueren en bijsturen van online marketingcampagnes en website onderhoud. Ik houd me bezig met webanalyse, SEA, SEO, social media advertising, e-mailmarketing en funnel automations. 
+        
+Gebruikte technieken: Google Analytics Universal, GA4, Google Ads, Meta Adsmanager, LinkedIn campagnebeheer, Channable, ActiveCampaign, WordPress, Magento, Kajabi
+
+
+2018 - 2019
+Online Marketeer @ Het Communicatielokaal
+Opzetten en onderhouden van SEA (Google & Bing), adverteren in LinkedIn, Facebook en Instagram, affiliate marketing, onderhouden en optimaliseren van websites, schrijven van blog artikelen en analyseren van resultaten voor diverse klanten. 
+
+
+Gebruikte technieken: Google Analytics, Google Ads, Bing Ads, Facebook Business Manager, LinkedIn Campagnebeheer, Channable, Google Merchant Centre, Mailchimp, WordPress, Google Data Studio
+
+
+2018
+Machine Learning Groepsproject @ Tilburg University
+In dit machine learning project zijn drie datasets samengevoegd om uitgesproken woorden, in de vorm van audio, te representeren. Het doel was om een model te trainen die de gesproken woorden herkent en categoriseert als een woord in geschreven vorm. Ter realisatie hiervan zijn uit de data features gecreëerd, waarna verschillende categoriserende algoritmes (Logistic Regression, K-NN, Decision tree, Random forest en Perceptron) op de data zijn toegepast en getuned om de beste optie te vinden.
+
+
+Gebruikte technieken: Python
+
+
+2018
+Text Mining Groepsproject @ Tilburg University
+In dit text mining project was het doel om zinnen uit twee documenten geautomatiseerd met elkaar te vergelijken en paren van soortgelijke zinnen terug te krijgen. Hiervoor zijn met behulp van Python de volgende stappen doorlopen; pre-processing, testen van verschillende representaties van de data en het vergelijken van de documenten m.b.v. verschillende methodes (waaronder tf-idf).
+
+
+Gebruikte technieken: Python
+
+
+2017
+Online Marketeer @ NOOSA-Amsterdam
+Beheren van de website en coördineren van online marketing-activiteiten. Zowel op strategisch niveau als implementatie daarvan (waaronder SEO, SEA, social media en e-mailmarketing).
+
+
+Gebruikte technieken: Google Analytics, Google Ads, Facebook Business Manager, Channable, Google Merchant Centre, Mailchimp, Spree
+
+
+________________
+
+
+Educatie en training
+
+
+Certificering
+
+
+Juli 2022
+Medior Consultancy Skills
+
+
+Juni 2021
+AWS Certified Cloud Practitioner 
+
+
+Training
+
+
+November 2022
+Amazon Sagemaker Immersion Day @ AWS 
+
+
+Januari-April 2022
+Medior Consultancy Skills 
+
+
+Oktober 2021
+Practical Data Science with Amazon SageMaker @ AWS
+
+
+Mei 2021
+Junior Consultancy Skills
+
+
+April 2021
+Insights Discovery Training
+
+
+April 2021
+Young Professional Academy @ Incentro
+
+
+Educatie
+
+
+2018 - 2019
+Data Science: Business and Governance, MSc @ Tilburg University
+Gevolgde vakken: Analytics for Business and Governance; Data Mining; Data
+Science Regulation & Law; Data Science: Sustainability, Privacy & Security; Machine Learning; Data Processing; Data Processing Advanced; Statistics & Methodology.
+
+
+2018
+Pre-master Communication and Information Sciences @ Tilburg University
+Gevolgde vakken: Academic English; Fundamentals of Information Sciences; Methodology; Research Seminar; Statistics; Language, Cognition & Computation.
+
+
+2013 - 2017
+Communication and Multimedia Design @ Hogeschool Utrecht
+Specialisatie: Content Design
+Minor: E-marketing & Social Media
+
+
+2008 - 2013
+HAVO @ Christelijk College Nassau-Veluwe Harderwijk

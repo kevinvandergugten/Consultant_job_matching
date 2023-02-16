@@ -1,0 +1,197 @@
+﻿Gergely 
+Tordai
+BI Consultant
+
+
+Met mijn brede achtergrond in de wetenschap en uitgebreide kennis van IT bezit ik de vaardigheden om snel en overzichtelijk cases te beoordelen aan de hand van wat belangrijk is voor de business. Hierbij word ik geholpen door mijn passie om op autodidactische wijze veel te leren en om zeer gedetailleerd te werk te gaan en de techniek in duiken om de perfecte oplossing te bedenken voor een probleem.
+
+
+Technische vaardigheden
+* Visualisatie / Dashboarding
+   * AWS QuickSight
+   * Power BI
+   * Tableau
+   * Qlikview
+
+
+* Analytics, Databases and Data Engineering
+   * SQL (MySQL, Microsoft SQL Server, PostgreSQL, MariaDB)
+   * Microsoft SSRS
+   * Microsoft SSAS
+   * Pentaho
+   * AWS Glue
+   * AWS Redshift
+   * Amazon Athena
+
+
+* Programmeertalen
+   * Python
+   * Javascript
+   * MATLAB
+   * C#
+________________
+Eigenschappen
+
+
+   * Teamplayer
+   * Resultaatgericht
+   * Creatief
+   * Communicatief
+	   * Analytisch
+   * Nieuwsgierig
+   * Tenaciteit
+	
+
+Contactgegevens
+   * E-mail: gergely.tordai@incentro.com
+   * Telefoon: +31 6 13 03 01 04
+   * Woonplaats: Amsterdam
+
+
+Werkervaring
+
+
+jan 2022 - heden
+Power BI lead @ ProRail AM-team via Incentro
+Voor ProRail was ik de lead op Power BI vlak in mijn team, wat inhield dat ik de planning, het creëren van de overzicht en de communicatie naar de developers en de PO’s tijdens een migratie van zes Power BI dashboards en 20 dataflows verzorgde. Ik stuurde daarnaast de developers aan bij het naar productie rollen en de voorbereiding hiervan. Ik zette mijn technische kennis in om issues op te lossen of om work-arounds te vinden voor de 
+blokkerende issues. 
+Ik heb ben daarnaast lid van het COP Power BI waarbij ik een actieve rol speel in het professionalisering van de Power BI landschap door deployment pipelines en versie beheer te presenteren en te helpen met implementeren bij andere teams. Daarnaast leid ik regelmatig trainingen en presenteer ik nieuwe features of data visualisatie concepten. 
+Ik heb naast mijn Power BI taken ook data pipelines gebouwd in ADF om bron data te ontsluiten in de DWH.
+
+
+Gebruikte technieken: Azure Data Factory, Azure, Power BI, Python, DevOps, Git
+
+
+aug 2019 - dec 2021
+BI consultant @ PZH I&A (Informatisering en 
+Automatisering) via Incentro
+Samengevat voerde ik bij PZH de volgende werkzaamheden uit: 
+   * Ik werk hier met de Agile methodiek aan de migratie van oude rapporten naar de nieuwe omgeving (Power BI en MS SSAS); hierbij ben ik continu in gesprek met de business en stakeholders over uitbreidingen aan het huidige datalandschap
+   * Voor het ophalen van de business logica achterliggende aan de oude rapporten moet ik de SSIS dataflows en SSRS-rapporten analyseren en formaliseren in een functioneel ontwerp
+   * Voor een afdeling na een uitgebreide analyse en ontwikkel fase een Power BI rapport ontwikkeld met operationeel- en stuurinformatie wat in dagelijks gebruik wordt genomen door de medewerkers en managers
+   * In Python verbeteringen toegebracht aan onze CI/CD pipeline
+   * Lid geweest van een stuurgroep waarbij ik als vertegenwoordiger van het BI-team meebesliste in de strategie voor de migratie
+
+
+Gebruikte technieken: Microsoft Visual Studio, Microsoft SSRS, Microsoft   
+SSAS, Azure, Power BI, Python, DevOps, Git
+
+
+Jun 2019 - heden
+Lid van de ondernemingsraad @ Incentro
+Als OR-lid ben ik actief betrokken bij de overleggen en het goedkeuren van de Corona maatregelen in samenspraak met de board. Ik vergrootte de zichtbaarheid van de OR bij Incentro door presentaties te geven en door met initiatieven te komen ten behoeve van de werknemers, zoals door het bedenken en introduceren van een thuiswerkvergoeding en van een maandelijkse sportvergoeding en door het organiseren van een kerst markt.
+
+
+aug 2019
+BI consultant @ Van Meeuwen via Incentro
+Voor deze klant maakte ik in zeer korte tijd een analyse van de wensen en bouwde ik naar aanleiding hiervan een Power BI rapport om de belangrijkste business processen inzichtelijke te maken.
+
+
+Gebruikte technieken: Power BI
+
+
+dec 2018 - jul 2019
+Data engineer @ PostNL via Incentro
+Als BI developer onderdeel geweest van een team developers dat op Agile wijze werkte bij een grootschalige database migratie van Microsoft Azure naar AWS. Ik heb delen van het Datamart gemodelleerd en met Pentaho jobs en transformaties gebouwd die verantwoordelijk zijn voor het vullen van de DWH en Datamart. Daarnaast ben ik verantwoordelijk geweest voor het beheer van bepaalde databases en het beheer van de reporting server.
+
+
+Gebruikte technieken: Microsoft Azure, Pentaho Data Integration, AWS Redshift, 
+AWS Glue, Amazon Athena, Power BI
+
+
+________________
+
+
+Aug 2018 - okt 2018
+BI consultant @ IBFD via Incentro
+Als BI developer verantwoordelijk geweest voor het bouwen van een rapportage oplossing in Microsoft SSRS door op voorhand een analyse uit te voeren van de requirements, ETL uit te voeren in SSIS en de beschikbare data uit een op maat gemaakte Alfresco oplossing. 
+
+
+Gebruikte technieken: Microsoft SSRS
+
+
+okt 2017 - mei 2018
+Data engineer @ PostNL via Incentro
+Voor deze klant ben ik betrokken geweest bij het modelleren en de bouw van een datawarehouse met Pentaho Data Integration. Ik was hoofdverantwoordelijk voor het definiëren en bouwen van een aantal Datamarts in een team dat op basis van Scrum functioneerde. 
+
+
+Voor de business bouwde ik rapporten in Microsoft SQL server en Power BI dashboards op basis van ETL in SSIS naar aanleiding van de benodigdheden voor business. Struikelblok was het issue van data quality voor data van vele miljoenen pakketjes en het traject dat ze afleggen. 
+
+
+Gebruikte technieken: Pentaho Data Integration, Microsoft SQL server, Microsoft, 
+SSIS, Power BI
+
+
+Sep 2017 - sep 2018
+BI consultant @ Equipe Zorgbedrijven via Incentro
+Ik heb in het Management Informatie Systeem met PDI transformaties gebouwd die de beschikbaarheid- en capaciteit van artsen inzichtelijk maakt. 
+
+
+Het DWH (op basis van Datavault 2.0 methode) heb ik uitgebreid om te voldoen aan de nieuwe data eisen en om het AVG-proof te maken.
+
+
+Gebruikte technieken: Pentaho Data Integration
+
+
+Aug 2017 - jun 2018
+Als BI consultant op verschillende projecten voor 
+veiligheidsregio’s via Incentro
+Voor verschillende veiligheidsregio’s heb ik Qlikview dashboards ontwikkeld en aanpassingen verricht aan hun DWH met Pentaho Data Integration
+
+
+Gebruikte technieken: Pentaho Data Integration, Qlikview
+
+
+________________
+
+
+2015 - 2017
+Web developer @ Bluedesk
+Samen met een ervaren programmeur de backend en frontend gebouwd van een car-tracking webapplicatie; gebruik makende van het Microsoft Visual Studio omgeving (C# en MSSQL), en een zelfontwikkeld frontend platform (Javascript, NodeJS, KnockoutJS). Ik was daarnaast verantwoordelijk voor het analyseren van de requirements en de vereiste resultaten en aan de hand hiervan verbeteringen door te voeren aan het datamodel.
+
+
+Verder voerde ik webdevelopment taken uit en heb ik een aantal websites gebouwd in Javascript, CSS en HTML.
+
+
+Gebruikte technieken: C#, MSSQL, Javascript, CSS, HTML5
+
+
+
+
+Opleidingen en trainingen
+
+
+Trainingen / certificaten
+
+
+2021
+Udacity - Data Visualization Nanodegree 
+
+
+2020
+PCEP – Certified Entry-Level Python Programmer 
+
+
+2019
+Microsoft Power BI certificate
+
+
+2017
+Data vault 2.0 course
+
+
+
+
+Opleidingen
+
+
+2011 - 2014
+MSc. Molecular Simulations and Photonics, Universiteit van Amsterdam
+
+
+2010 - 2011
+Erasmus Uitwisseling, University of Edinburgh
+
+
+2007 - 2010
+BSc. Bèta-gamma, Universiteit van Amsterdam

@@ -1,0 +1,371 @@
+﻿Thom Bleeker
+Data Engineer with 6 years work experience 
+
+
+Trained as an applied mathematician, he has all the knowledge to tackle (big) data issues. As a consultant, Thom finds out the business demand of the customer and translates this into clear and sharp analyses. In the different phases of the analysis process, he is constantly curious about ways to further optimize. Thom likes to seek collaboration with team members, in order to jointly arrive at new insights.
+
+
+He has implemented predictive models at DPG Media, for example, and made the insights from these available to the organization.
+
+
+Reliability and structure are core elements that Thom likes to apply in projects. Because smart insights are only possible if they are fed by a thorough data flow. Because he orchestrated these transformations and components to create a stable and maintenance-friendly data platform.
+
+
+Thom is versatile. This is due to his experience as a data scientist, in which he is mainly concerned with collecting customer demand and translating it into solutions.
+In addition, Thom works as a data engineer, which enables him to view and answer customer questions from a technical perspective. This combination makes Thom an enrichment for any team. Thom prefers to work according to the methodologies of scrum.
+
+
+The ultimate challenge: the world of innovation and flexibility. combining stability and reliability.
+Thom's skills, drive, sincere personality and humor make him a great colleague.
+
+
+
+
+Techniques and tooling
+
+
+
+
+* Snowflake
+* Python
+* Azure ADLS / ADF / Authentication / Synapse
+* Spark (Databricks)
+* CI/CD
+* Git
+* R
+* Json
+* Airflow
+* SQL (MS-SQL, Netezza)
+* Mongo DB
+* Matillion
+* Tableau
+* Alteryx
+* Qlik
+* PowerBI
+* Google Analytics
+* Google Big Query
+* CXense CMD
+* Linux
+* SAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact information
+* E-mail: thom.bleeker@incentro.com
+* Phone:  +31 (6)57248321
+
+
+________________
+
+
+Work experience
+
+
+August 2021 - April 2022 
+Data engineer @ Mosadex Ehealth
+Expanding a data platform. Hereby setting up ELT flows within Azure Data Factory to process and bring together different sources from different systems and then write that to Azure. Iterative work through DevOps and CICD. 
+
+
+Thom is responsible for: 
+* Data migration to Azure
+* Define schemas and views
+* Creating and orchestrating pipelines and data flows in Azure Data Factory
+* Data processing in Azure Synapse
+* Developing Tableau dashboards
+* Document the way of working
+
+
+Used techniques and tooling: Azure ADF, Azure Synapse, SQL  
+
+
+
+
+March 2021 - May 2021
+Data analyst @ Epiphany
+Processing data obtained from surveys into a useful intuitive data model. In accordance with the customer to shape the reporting of the survey results. 
+
+
+Thom is responsible for: 
+* Data processing in Alteryx
+* Define the data model using Datavault 2.0
+* Develop facts and dimensions
+* Conducting conversations with the customer and translating these into clear analyses issues
+* Developing Tableau dashboards
+* Document the way of working
+
+        Used techniques and tooling: Alteryx, SQL, Tableau, Datavault 2.0 
+
+
+        
+________________
+February 2021 - June 2021
+Data engineer @ Hoogwegt
+Setting up a data platform. Set up ELT flows within Matillion to process and bring together different sources from different systems and then write that to Snowflake. Iterative work through DevOps and CICD. 
+
+Thom is responsible for: 
+* Data migration to snowflake
+* Defining schemas and views
+* Creating and orchestrating data flows in Matillion
+* Data processing in Matillion (SQL) 
+* Create and orchestrate CICD pipelines and triggers
+* Conducting conversations with the customer and translating these into clear analyses issues
+
+
+Used techniques and tooling: Matillion, Snowflake, Azure (o.a. Authentication, ADF),  SQL, CICD  
+
+        
+August 2020 - February 2021
+Data engineer @ CZ
+[Dutch] Opzetten van een data lake platform. Hierbij achterhalen wat de wensen van de business/IT/DS zijn, en dit vertalen naar een technische oplossing (schets). Deze vervolgens uitvoeren en toetsen bij de mensen. 
+
+        Thom is verantwoordelijk voor: 
+* Met klant in gesprek over de vorm van het data lake platform
+* Data migratie naar ADLS
+* Definiëren van schema’s en views. 
+* Het bouwen van data pipelines in ADF
+* Data verwerking in ADF (SQL) en Databricks (Python)
+* Maken en orchestreren van CICD pipelines en triggers 
+
+
+Used techniques and tooling: Azure (o.a. ADLS, ADF), Databricks, CICD, MongoDB
+
+
+ 
+________________
+
+
+April 2019 - May 2020
+Data engineer, data scientist @ Northpool
+A data migration to Snowflake, hereby defining the schema’s view, roles and ETL. Next we scraped traders data using Python, which we put in Docker containers and orchestrated using Airflow, but also sending triggers based on events and ingesting the data into Snowflake.
+
+
+Thom is responsible for: 
+* Data migration to Snowflake. 
+* Defining views, schemas
+* Building webscrapers for near realtime data ingestion in Snowflake
+* Operationalizing the webscraping scripts, using Airflow and Azure functions
+* Data processing in Snowflake/Python.
+
+
+Used techniques and tooling: Python, SQL, Json, Airflow, Snowflake
+
+
+
+        November 2019 - April 2020
+Smart Analytics Consultant, Data Scientist  @ Athlon International
+Setting up a server for the use of shiny dashboard professional.  Helping the analysis team to think about open issues, by asking critical questions and drawing attention to interesting modelling methods, in order to solve relevant questions. 
+
+
+Thom is responsible for: 
+* Conducting conversations with the client and translating this into clear analysis issues. 
+* Switched with IT for placement solutions/data 
+* Switched with business analysts for domain knowledge 
+* Creating an analytics development environment, with means of authentication, logging and monitoring.
+
+
+Used techniques and tooling: CMD, Linux, R
+
+
+        September 2019 - April 2020
+Smart Analytics Consultant, Data Scientist  @ DPG Media (De Persgroep Nederland)
+Segmenting visitors based on their reading behaviour, socio-demographic data. To offer advertisers a segment with interested parties. With the aim of increasing that by click rate on advertisements. Other, smaller questions concerned quality and differences in research on socio-demographic data from different sources. 
+
+
+Thom is responsible for: 
+* Conducting conversations with the client and translating this into clear analysis issues. 
+* Switched with IT for placement solutions/data 
+* Switched with business analysts for domain knowledge 
+* Annotating, augmenting, wrangling and modelling data (ML)
+* Feature engineering (Folder) 
+* Testing the model. And incorporate it into the system so that the model can develop
+* Model deployment 
+
+
+Used techniques and tooling: Python, Spark (Databricks), Git, SQL, Google Analytics, Google Big Query, CXense, AWS S3
+
+
+
+
+February 2019 - May 2019
+Smart Analytics Consultant, Data Scientist  @ Eno Health Insurance
+Research into the use of care in the municipality of Deventer. Agile work, in the form of sprints. 
+
+
+Thom is responsible for: 
+* Conducting conversations with the client and translating this into clear analysis issues. 
+* Agile work, in which frequent contact is made with business analysts and marketing with regard to problem definition.  
+* Switched with the management regarding the outcomes. 
+* Prepare, explore, model and visualise data (cluster analysis) 
+* Feature engineering
+* Elaboration of proof-of-concepts datalab 
+* Completion of final report 
+
+
+Used techniques and tooling: R, SQL (MS-SQL)
+
+
+
+
+December 2018 - April 2019
+Smart Analytics Consultant, Data Scientist  @ Landal Greenparks
+Forecasting cash flow based on predictive modelling within Landal Greenparks.​ 
+
+
+Thom is responsible for: 
+* Retrieve, prepair, explore, model and visualise data  
+* Switched with business analyst to create scenarios  
+* Time series analysis & Regression models
+* Feature engineering 
+* Model elaboration and implementation  
+* Setting up manual models
+
+
+Used techniques and tooling: R, SQL (MS-SQL), PowerBI. 
+
+
+
+
+July 2018 - July 2022
+Smart Analytics Consultant, Data Scientist  @ Kadenza
+Doing data analyses and everything that goes with it. Translating the customer demand into suitable data. Preparing and exploring the same data. But above all, modelling the data, in order to visually report or implement the results. 
+
+Thom is responsible for: 
+* Thom is responsible for: 
+* Prepare, explore, model and visualise data  
+* Development of machine learning models 
+* Feature engineering 
+* Self-study: Python, Power BI, Qlik 
+* Development of teaching materials Data-U 
+* Reporting in Tableau and Power Bi
+
+
+
+
+Used techniques and tooling: R, Python, SQL (MS-SQL), Tableau, Alteryx, Qlik, PowerBI  
+
+
+        February 2018 - July 2018
+Data Scientist  @ Vektis CV
+Research into predictors of vulnerability in people aged 65 and over. 
+
+
+Thom is responsible for: 
+* Coordinating with the various departments with regard to demand and dates. 
+* Collecting, combining and aggregating health care declaration data.  
+* Provide support within the Vektis data lab. 
+* Data analysis: Anomalies, classification (logistic regression, random forest), feature engineering (Principal Components Analysis). 
+* Visualising results.
+
+
+
+
+Used techniques and tooling: R, SQL (Netezza), SAS   
+
+
+        
+________________
+June 2017 - February 2018
+Junior Data Scientist  @ University of applied sciences Amsterdam (Urban Technology) 
+Research into the use of charging poles for electric and plugin-hybrid cars. Looking at how time that a car stands at a charging station can be used efficiently. 
+
+
+Thom is responsible for: 
+* Discussions with the parties involved and translate this into clear analysis of issues. 
+* SQL routines for retrieving data. 
+* Development and automation of reports. 
+* Data analysis to gain insight into both the quality of the data and the logic of the business rules (User groups). 
+* Visualising KPIs for publication.
+
+
+Used techniques and tooling: R, Python, SQL 
+
+
+
+
+September 2017 - January 2018
+Onderzoeker @ Gemeente Amsterdam  
+Responsible for the preparation, analysis, modelling and visualization of data. Research into the use of underground waste bins in order to possibly identify new locations. 
+
+Thom is responsible for: 
+* SQL routines for retrieving data.  
+* Setting up reports in R. 
+* Data analysis to gain insight into both the quality of the data and the logic of the business rules. (e.g. Regression analyses). 
+* Visualizing KPIs in the form of a dashboard.
+
+
+Used techniques and tooling: R, SQL 
+
+
+
+
+________________
+
+
+Training and education 
+
+
+Training
+
+
+2021
+Mindmapping @ Goodhabitz
+Personal Leadership @ Goodhabitz
+Influencing Effectively @ CDP / Axians Academy
+Advisory skills @ CDP / Axians Academy
+        2020
+Feedback @ CDP / Axians Academy
+Conversation techniques @ CDP / Axians Academy
+Azure Fundamentals @ Microsoft
+Rendement van Leren @ Axians Academy
+
+
+        2019
+Human Typologies @ Kadenza Academy
+Python Deep Learning @ Udemy
+Effective Influencing @ Kadenza Academy 
+Qlik Sense @ Kadenza Academy
+Snowflake @ Kadenza Academy
+Denodo @ Denodo
+2018
+Python Natural Language Processing @ Udemy
+Python @ Udemy
+Tableau @ Tableau
+SAS @ SAS / IBM
+
+
+        2015/16
+R @ Datacamp
+
+
+        2014
+SQL Foundations @ Udemy
+2014
+SPSS @ UVA
+
+
+
+
+Education
+
+
+2014 - 2019
+Applied Mathematics @ University of Applied Sciences Amsterdam
+
+
+2013 - 2014
+Economics and Business Administration @ University of Amsterdam
+
+
+2006 - 2013
+VWO, ​Economie en Maatschappij​ (Luzac)

@@ -1,0 +1,96 @@
+﻿Collin Aldaibis
+Data Engineer
+
+
+Voor mij is geen enkele uitdaging te groot. Ik ben een spontane, leergierige data engineer die erg enthousiast wordt van het bouwen aan data-gerelateerde oplossingen. Met mijn grote passie voor data, en mijn academische achtergrond in computing science, werk ik altijd in een nauwkeurige, rigoureuze en bovenal gedisciplineerde wijze.
+
+
+Vaardigheden
+
+
+* Zeer gedreven
+* Sterke communicatie
+* Coöperatief
+* Analytisch
+* Oplossingsgericht
+
+
+Technische vaardigheden
+
+
+* Effective software engineering
+   * Object oriented programming
+   * Unit testing
+   * Design patterns
+   * Git
+   * CI/CD
+   * Docker
+   * Linux & bash scripting
+   * Web development (PHP, Symfony, nginx)
+* Data analytics & scripting
+   * Python (pandas, numpy, scikit-learn, matplotlib, etc.)
+   * SQL
+* Machine learning
+   * Machine learning (linear/logistic regression, random forest, gradient boosting, etc.)
+   * Reinforcement learning (OpenAI Gym, Ray Tune, Ray RLlib)
+   * Deep learning (PyTorch, TensorFlow)
+
+
+Contactgegevens
+* E-mail: collin.aldaibis@incentro.com
+* LinkedIn: https://www.linkedin.com/in/caldaibis/
+* Telefoon: +31 6 149 162 51
+
+
+Werkervaring
+
+
+2018 - 2020
+Web developer @ Yard | Digital Agency
+Bij Yard | Digital Agency was ik verantwoordelijk voor het doorontwikkelen van een grote webapplicatie (codebase: ~200.000 regels) voor community platforms voor kennis- en zorginstellingen. Ik had vaak direct contact met de klant om ideeën samen uit te werken of nieuwe problemen te kunnen aanpakken. In een team van 8 man, waaronder developers, designers en projectmanagers werkten we met 1 doel: het optimaliseren en uitbreiden van deze webapplicatie.
+
+
+Gebruikte technieken: PHP, Symfony, Vue.js, Docker, Nginx, Git, Linux
+
+
+Overige projecten
+
+
+2022
+Master Thesis @ Universiteit Utrecht
+Tijdens mijn thesis heb ik zelfstandig wetenschappelijk onderzoek verricht op het gebied van “probability updating games”. Hier probeerde ik te onderzoeken of ik optimale spelstrategieën kon vinden op empirische, computationele wijze. Onder andere probability theory, game theory, multi-agent learning, neural networks en reinforcement learning kwamen hier aan bod.
+
+
+Gebruikte technieken: OpenAI gym, TensorFlow, PyTorch, Ray Tune, Ray RLlib
+
+
+
+
+________________
+
+
+Opleidingen en trainingen
+
+
+Trainingen
+
+
+        April 2022
+Deep Learning @ Coursera
+
+
+April 2022
+Machine Learning @ Coursera
+
+
+Opleidingen
+
+
+2018 - 2022
+MSc Computing Science - Track: Algorithmic Data Analysis @ Universiteit Utrecht
+Mijn masterstudie heeft mij een sterke academische kijk gegeven op computing science, maar ook op data science, AI en statistiek. Voor mijn master thesis, waarin ik state-of-the-art deep reinforcement learning heb toegepast om optimale strategieën te leren in zogenoemde “probability updating games”, haalde ik een 8.2. Verder heb ik kennis opgedaan in data mining, machine learning, evolutionary computing, network science en meer.
+
+
+2015 - 2018
+BSc Informatica @ Universiteit Utrecht
+Tijdens mijn bachelorstudie leerde ik effectief programmeren (C#, Python, R, Haskell). Mijn studie heeft me tevens kennis toegebracht in databases (SQL), datastructuren en algoritmiek, concurrency/parallelism en AI/machine learning.

@@ -1,0 +1,107 @@
+﻿Noortje van der Meijden
+Data Analist
+
+
+Samen een probleem of behoefte vanuit een consument onderzoeken aan de hand van diverse databronnen? Om vervolgens een mooie oplossingen te ontwerpen, te testen en te implementeren? Daar kom ik mijn bed voor uit! Ik lever graag mijn bijdrage met mijn creativiteit en mijn ervaring in data analyse. 
+
+
+Vaardigheden
+
+
+* Information management
+* Data analyse / Data visualisatie / Dashboarding
+* Data science
+
+
+Technieken en tools
+
+
+* R
+* Python
+* PySpark
+* SQL 
+* Google Data Studio / AWS QuickSight / Microsoft PowerBI / Tableau
+
+
+Certificering
+* AWS Cloud Practitioner
+   * Praktijk ervaring met o.a.: Athena, Sagemaker
+* Udacity Data Visualisatie
+
+
+Contactgegevens
+* E-mail: noortje.vandermeijden@incentro.com 
+* Telefoon: +31 (0)6 30 26 22 92
+Werkervaring
+
+
+Uitgelichte projecten
+
+
+December 2021 - Heden
+Data & Analytics team + 
+Journey Factory Team ‘I Manage My Account’  @ PostNL
+Als data analist bij PostNL Consument ben ik werkzaam in het ‘I Manage My Account’ Journey team. Wat betekent dat we door middel van een iteratief proces nieuwe features voor het PostNL account ontwerpen. Vanuit mijn rol als data analist verzorg ik cijfers en visualisaties vanuit diverse databronnen, onder andere Adobe Analytics. Dit om inzicht te creeën in de consument, een passend protype te kunnen bouwen, deze te testen en te verbeteren, om zo een maximale waarde toe te voegen voor de consument. 
+
+
+Overige projecten en werkervaring
+
+
+2019-2020
+Afstudeeronderzoek @ PostNL CBS via Incentro
+Vanuit Incentro heb ik mijn afstudeerscriptie geschreven voor de master Information Management bij PostNL. Ik heb onderzoek gedaan naar het reduceren van CO2 uitstoot in de export van brieven en pakketten.
+
+
+2018 - 2019
+Data Analist @ Nationale Politie
+Naast mijn studie, ben ik voor 24 uur per week aan het werk gegaan bij de Innovatiestudio van de Politie in Breda. Hierbij ben ik aan met het uitbreiden van de informatiepositie. Bij ons project werden diverse collega’s betrokken om zo men te informeren en enthousiasmeren over datagedreven werken! 
+
+
+2018
+Afstudeeronderzoek @ Tilburg University
+Voor mijn studie Data Science & Society heb ik onderzoek gedaan naar de relatie tussen een cliënt en therapeut in psychotherapie.
+
+
+2011 - 2021
+Diverse stages en bijbanen in de horeca en         
+evenementen branche
+
+
+
+
+Opleidingen en trainingen
+
+
+Trainingen
+        January 2022 - Heden
+Data Visualization Nanodegree  @ Udacity
+Training van 4 maanden over datavisualisatie, dashboard design en data storytelling
+
+
+September 2021 - Heden
+Young Professional Academy @ Incentro
+        Training in gesprekstechniek, consultancy, begeleid door Akerendam psychologen. 
+
+
+Opleidingen
+
+
+2020 - 2021
+Informationmanagement, MSc @ Tilburg University
+Tijdens deze studie krijg ik de tools om de de kloof tussen IT-processen en strategische behoeften binnen een bedrijf of netwerk te ontdekken. Hierbij leer ik hoe ik strategische en operationele behoeften kan vertalen naar betere informatiesystemen en IT processen om uiteindelijke doelstellingen te behalen.
+
+
+2018 - 2019
+Datascience and Society, MSc @ Tilburg University 
+Uit data, waardevolle informatie verwerven, dat is wat ik leerde tijdens deze master. Ik heb technische vaardigheden ontwikkeld i.c.m. kennis over de juridische en ethische kwesties m.b.t Data Science. 
+
+
+2017 - 2018
+Premaster Communiation and Informationsciences 
+@ Tilburg University 
+Basis theorieën en onderzoeks skills om een master programma te kunnen starten.
+
+
+2013 - 2016
+Hotel- en Eventmanagement @ TIO Rotterdam 
+Met de focus op gastvrijheid, heb ik tijdens deze opleiding vakken gevolgd in de richting marketing, sales, communicatie, leiderschap, HRM en finance.

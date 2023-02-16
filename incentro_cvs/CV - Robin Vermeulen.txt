@@ -1,0 +1,119 @@
+﻿Robin Vermeulen
+
+Data Consultant met 5 jaar werkervaring
+Door mijn brede achtergrond en ervaring in data engineering en data warehousing/ -analyse beschik ik over de kennis om met klanten mee te denken, en vervolgens mee te werken aan de uitwerking van deze vraagstukken. Samen met een klant tot een mooie oplossing komen geeft mij energie en een gevoel van voldoening.
+Mijn passie voor mijn werk en mijn gedrevenheid zorgen voor een proactieve en resultaatgerichte houding om zo veel mogelijk waarde te kunnen bieden aan een klant.
+Vaardigheden
+* “Ontwikkeltalen”: 
+   * SQL
+   * Java
+   * Python
+
+
+* Cloud:
+   * AWS cloud
+      * Redshift
+      * Athena
+      * S3
+   * Google Cloud
+      * BigQuery
+      * PubSub
+      * Firestore
+
+
+* ETL Tooling
+   * Pentaho
+
+
+* ProcesManagement:
+   * Scrum Agile 
+
+
+* Overig: 
+   * Data Warehousing
+   * GIT
+Kwaliteiten
+* Doorzetter
+* Gedreven
+* Analytisch
+* Teamspeler
+* Gedisciplineerd
+* Oplossingsgericht
+* Initiatiefrijk
+
+
+Werkervaring
+[2022 - heden]
+Data Engineer @Simon Loos Wognum
+Momenteel ben ik 1 jaar werkzaam bij Simon Loos in een Agile Scrum team.
+Voor Simon Loos zijn we een dataplatform aan het opzetten in de Google Cloud waarin streaming data verwerkt, verrijkt en opgeslagen kan worden. Daarbij worden bestaande business processen geautomatiseerd om efficiëntie te verhogen, doorlooptijd van het proces te verlagen en handmatig/ foutgevoelig werk te verminderen.
+
+
+De dagelijkse werkzaamheden bestaan vooral uit het schrijven van java code ter ontwikkeling van het dataplatform.
+Anderzijds ben ik ook geregeld bezig met business processen te geanalyseerd om vervolgens te vertalen naar requirements voor de verdere ontwikkeling van het dataplatform.
+ 
+
+
+[2017 - 2022]
+Business Intelligence Consultant / Data Analist @PostNL The Hague
+Bij PostNL onderdeel geweest van een Agile Scrum ontwikkelteam. 
+
+
+Bij de afdeling CBS bestond mijn dag uit het ontsluiten van data uit verschillende- bronnen met SQL en Python. Om daarna de data in te laden in een AWS Redshift Datamart voor analysedoeleinden.
+
+
+Naast het ontsluiten van databronnen ben ik ook bezig geweest met het ontwerpen en creëren van datamarts in samenwerking met de Business Analisten van PostNL CBS.
+Deze datamarts vormen tezamen de bron voor de visualisatie tooling(PowerBI), zodat hier dashboards op kunnen worden gebouwd.
+
+
+Naast het schrijven van SQL en Python queries voor de dashboards was ik ook verantwoordelijk voor het onderhouden- en verbeteren van het Business Intelligence platform van PostNL CBS door bestaande ETL structuren te herzien en waar mogelijk te verbeteren. Ook heb ik geholpen bij de migratie van Azure data omgeving naar de AWS cloud.
+
+
+Deze opdracht ben ik gestart als een BI novice, maar gedurende de 4 jaar heb ik mijzelf opgewerkt naar het aanspreekpunt van het BI datateam mede door de uitgebreide ervaring en kennis van het datalandschap.
+
+
+
+
+[2017]
+Information Analyst Stage @ AMELS SHIPYARD
+Bij Amels ben ik een half jaar bezig geweest om de informatiehuishouding komende van verschillende databronnen in kaart te brengen. Dagelijks praten met stakeholders over welke informatie er uit welke bron komt en waar deze informatie naar toe gaat was hier de hoofdbezigheid.
+
+
+
+
+[2015]
+Information Analyst Stage @ Fokker Elmo
+Bij Fokker Elmo te Hoogerheide heb ik 3 maanden lang een proces optimalisatie traject uitgevoerd. Analyseren van dataprocessen, de efficiëntie van deze processen en de informatie binnen deze processen in kaart brengen waren mijn dagelijkse taken gedurende deze periode.
+
+
+
+
+Trainingen
+
+
+* YPA training Incentro 
+
+
+Technical skills:
+
+
+* AWS Certified Cloud practitioner
+* AWS Data Analytics Specialty
+* PCEP Python Certificate
+* Data manipulation with Pandas
+
+
+Consultancy skills:
+* Feedback Training
+* Medior Consultancy Training
+
+
+
+
+
+
+Opleidingen
+
+
+Business IT and Management 
+University of Applied Sciences Vlissingen  | 2013-2017

@@ -1,0 +1,82 @@
+﻿Thomas Tunc
+Data Engineer
+
+
+I am a motivated data engineer with more than 2+ years of work experience in IT. For me it is important to be able to contribute to a better and more environmentally aware world. Because I can quickly learn new techniques and come up with concrete solutions, I am ready for challenging assignments that come my way.
+
+
+Experiences
+
+
+* Machine Learning
+* Big Data
+* Cloud Engineering
+* Web / App Development
+* Scrum
+
+
+Techniques and tools
+
+
+* Python
+* Javascript
+* Java / Kotlin
+* SQL
+* Docker
+* Git
+* Spark
+
+
+Certification
+* AWS Cloud Practitioner
+
+
+Contact details
+* E-mail: thomas.tunc@incentro.com 
+* Phone: +31 (030) 666 5315
+* LinkedIn: linkedin.com/in/thomas-tunc/
+Work experience
+
+
+Featured projects
+
+
+2021
+Graduation research @ Thales Netherlands
+At Thales I was offered a great assignment that matched very well with the specialisation (Big Data & ML) of my training. Here the aim was to create a system that could process large data sets in a faster manner than the current system.
+
+
+2019 - 2020
+Mobile Development Internship @ Incentro
+As an intern at Incentro, I was commissioned to make a lunch app for tracking and paying for lunches. During this internship I was able to orient myself well on the professional field and what exactly I like about software development. I found out that my interest lies mainly in the data processing part.
+
+
+2020-2021
+Backend Software Data Engineer @ NDIX
+I joined the NDIX software team. Within the team we were working on creating a customer portal. My main function was engineering the backend, during which I spent a lot of time processing and implementing various APIs.
+
+
+________________
+
+
+Education and training
+
+
+Trainings
+
+
+Januari 2022
+YPA @ Incentro
+
+
+Educations
+
+
+2017 - 2021
+HBO-ICT (Software Engineering), BASc @ Saxion
+During this study I was able to develop into a full-fledged Software Engineer. During the training I was able to specialise myself as a data engineer by delving into Big Data & Machine Learning.
+
+
+2020
+Computer Security, Minor @ Robert Gordon University
+Saxion gave me a great opportunity to do a minor abroad. I like to be open to new challenges, so I took the minor Computer Security at the RGU in Aberdeen. Here I not only gained knowledge in the minor itself, but also in the experience of another culture.
