@@ -49,7 +49,7 @@ if __name__ == '__main__':
     best_matches_by_index = SkillMatcher(
         zip_names_cv_skills,
         extracted_job_skills,
-        'Thierry_Ernest',
+        'Kevin_van_der_Gugten',
         5
     ).__post_init__()
 
