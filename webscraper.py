@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -6,7 +8,6 @@ from bs4 import BeautifulSoup
 
 # from dataclasses import dataclass
 import requests
-import boto3
 import time
 
 from boto_upload_file import upload_file
@@ -23,6 +24,8 @@ from boto_upload_file import upload_file
 
 
 if __name__ == '__main__':
+
+    load_dotenv()
 
     url = 'https://www.headfirst.nl/opdrachten/'
     r = requests.get(url).text
@@ -71,10 +74,4 @@ if __name__ == '__main__':
         with open(f'./job_posts/{file_name}.txt', 'w') as f:
             f.write(job_text)
 
-        upload_file(f'./job_posts/{file_name}.txt', bucket_name)
-
-        # s3 = boto3.client('s3')
-        # with open(f'./job_posts/{file_name}.txt', "rb") as f:
-        #     s3.upload_fileobj(f, bucket_name)
-
-        # print(job_text)
+        upload_file(f'./job_posts/{file_name}.txt', bucket_name, f'job_posts/{file_name}.txt')
