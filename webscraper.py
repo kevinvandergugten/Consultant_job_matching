@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium import webdriver
@@ -31,7 +32,13 @@ if __name__ == '__main__':
     r = requests.get(url).text
     soup = BeautifulSoup(r, 'html.parser')
 
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+
+    # Use this one if
+    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     driver.get(url)
 
     driver.find_element(By.LINK_TEXT, "Alle cookies accepteren").click()
@@ -61,6 +68,8 @@ if __name__ == '__main__':
             continue
 
         links.append(link)
+
+    print(links)
 
     for index, job_url in enumerate(links):
 

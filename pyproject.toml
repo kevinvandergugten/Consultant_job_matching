@@ -5,7 +5,7 @@ description = ""
 authors = ["kefkaaah"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 pandas = "^1.5.3"
 numpy = "^1.24.2"
 nltk = "^3.8.1"

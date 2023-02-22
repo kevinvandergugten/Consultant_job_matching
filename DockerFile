@@ -1,0 +1,25 @@
+FROM public.ecr.aws/lambda/python:3.9
+
+# Install chrome dependecies
+RUN yum install unzip atk at-spi2-atk gtk3 cups-libs pango libdrm \
+    libXcomposite libXcursor libXdamage libXext libXtst libXt \
+    libXrandr libXScrnSaver alsa-lib -y
+
+RUN pip install poetry==1.3.0
+
+# Copy install scripts
+COPY poetry.lock pyproject.toml /
+
+# Install application dependencies
+RUN poetry config virtualenvs.create false && \
+    poetry install --no-interaction --no-ansi --no-root
+COPY install-chrome.sh /tmp/
+
+# Install chromium, chrome-driver
+RUN /usr/bin/bash /tmp/install.sh
+
+# Remove unused packages
+RUN yum remove unzip -y
+
+COPY . /var/task/
+CMD [ "webscraper.lambda_handler" ]
